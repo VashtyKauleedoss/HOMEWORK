@@ -1,0 +1,24 @@
+.Flag{
+  background-color:#3d3d3d;
+  width: 420px;
+  height: 400px;
+  marging: 0 auto;
+}
+
+.first{
+  background-color: #ff0000;
+  width: 420px;
+  height: 25%
+}
+
+.second{
+  background-color: #0000ff;
+  width: 420px;
+  height: 25%
+}
+
+.fourth{
+  background-color: #FFFF00;
+  width: 420px;
+  height: 25%
+}
